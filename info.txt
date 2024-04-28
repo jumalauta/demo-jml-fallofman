@@ -1,0 +1,61 @@
+Jumalauta presents
+
+FALL OF MAN
+
+A tragedy in three parts
+
+
+Engine code: Haluttu maksullinen engine
+Code, gfx, music: Anteeksi neiti, mutta voisinko lainata kupillisen sokeria?
+
+Fullscreen might bug. Use 720p, if it fails.
+
+---
+LEGAL
+---
+
+Following images are licensed under Creative Commons Attribution-Share Alike 4.0 International:
+
+tex_choppa.png is based on
+https://commons.wikimedia.org/wiki/File:20110827_Mi-24_Radom_Air_Show_8611.jpg
+by Jakub Halun
+
+
+tex_hifi.png is based on
+https://commons.wikimedia.org/wiki/File:Sony_MHC-GR8000.jpg
+by SSISOP!
+
+
+License information: https://creativecommons.org/licenses/by-sa/4.0/
+
+---
+
+Following images are licensed under Creative Commons Attribution-Share Alike 3.0 Unported:
+
+tex_tv.png is based on
+https://commons.wikimedia.org/wiki/File:Sony_FD_Triniton_KV-BZ213N50.jpg
+by Mike Gonzalez (TheCoffee)
+
+
+License information: https://creativecommons.org/licenses/by-sa/3.0/deed.en
+
+---
+
+Following images are licensed under Creative Commons licenses which only require attribution:
+
+tex_washingmachine.png is based on
+https://commons.wikimedia.org/wiki/File:LG_%EB%93%9C%EB%9F%BC%EC%84%B8%ED%83%81%EA%B8%B0%EC%99%80_%EC%8B%9D%EA%B8%B0%EC%84%B8%EC%B2%99%EA%B8%B0,_%EC%98%81%EA%B5%AD%EC%84%9C_%EB%AC%BC%EC%82%AC%EC%9A%A9_%ED%9A%A8%EC%9C%A8_%EC%B5%9C%EC%9A%B0%EC%88%98_%EC%A0%9C%ED%92%88_%EC%88%98%EC%83%81.jpg
+by LG??
+
+
+tex_carrier.png is based on
+https://commons.wikimedia.org/wiki/File:Admiral_Kuznetsov_aircraft_carrier.jpg
+by Russian	Ministry of Defence
+
+
+---
+
+
+All other image material is public domain (CC0) either by Jumalauta or other sources.
+
+47009
